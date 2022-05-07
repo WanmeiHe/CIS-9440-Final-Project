@@ -38,11 +38,12 @@ Data Sources:
 ### Business Requirements Definition
 
 List of Data Warehouse KPI's:
-1.Average annual ridership per station
-2.Average daily ridership per station based on weekdays and weekends.
-3.Total number of subway stations by borough
-4.Total accidents/injuries case by category by borough in 2020
-5.The number of subway lines per station
+
+1. Average annual ridership per station
+2. Average daily ridership per station based on weekdays and weekends.
+3. Total number of subway stations by borough
+4. Total accidents/injuries case by category by borough in 2020
+5. The number of subway lines per station
 
 
 ### Dimensional Model
