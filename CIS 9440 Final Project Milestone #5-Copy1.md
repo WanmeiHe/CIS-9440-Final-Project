@@ -70,11 +70,10 @@ List of Visualizations for each KPI:
 
 
 3. Packed Bubble chart for Total Number of Subway Stations by Borough
-<img width="344" alt="4  Subway Station by Borough" src="https://user-images.githubusercontent.com/70614026/167271302-cda37da8-f91e-4f71-b8cf-8757b56fccd4.png">
+<img width="347" alt="3  Subway Station by Borough" src="https://user-images.githubusercontent.com/70614026/167275241-8a4f19a1-2978-42a0-b766-e538000e4ab4.png">
 
 4. Stacked bar chart for Total Accidents/Injuries Case by Category by Borough in 2020
-
-<img width="249" alt="3  Incidents cases by Borough and Category in 2020" src="https://user-images.githubusercontent.com/70614026/167271287-33a398ba-de83-4833-b34a-2d676bb1eb11.png">
+<img width="249" alt="4  Incidents cases by Borough and Category in 2020" src="https://user-images.githubusercontent.com/70614026/167275258-ecc5ea08-78c3-4898-a740-ae49f1d5619c.png">
 
 5. Bar Chart for The Number of Subway Lines per Station
 <img width="631" alt="5  Subway Line per Station" src="https://user-images.githubusercontent.com/70614026/167271334-a9d2e581-b4b0-4a0d-b6ae-ef12118d9302.png">
