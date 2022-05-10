@@ -52,7 +52,7 @@ List of Data Warehouse KPI's:
 
 This project's Kimball Bus Matrix:
 
-<img width="589" alt="Kimball BUS Matrix" src="https://user-images.githubusercontent.com/70614026/167228719-29e4519b-a1fd-4102-9f65-80bac2e780fb.PNG">
+<img width="587" alt="Kimball BUS Matrix" src="https://user-images.githubusercontent.com/70614026/167535770-c7ad38dd-3c9f-4fd7-b10d-973641c175f4.PNG">
 
 
 
