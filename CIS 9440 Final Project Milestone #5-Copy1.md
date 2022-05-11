@@ -60,13 +60,13 @@ This project's Kimball Bus Matrix:
 ### Business Intelligence Design and Development
 
 List of Visualizations for each KPI:
-1. Bar Chart for Average Annual Ridership per Station
-<img width="542" alt="1  Annual Ridership Top 25" src="https://user-images.githubusercontent.com/70614026/167271245-b0e73696-3665-4e02-9110-de0d87268d24.png">
+1. Tree Map for Average Annual Ridership per Station
+<img width="473" alt="1  Annual Ridership" src="https://user-images.githubusercontent.com/70614026/167955064-f2093a22-ae93-4f24-bc93-e201d49e324a.png">
 
 
-2. Bar Chart - Compariosn of Average Daily Ridership per Station based on Weekdays vs Weekends
-<img width="545" alt="2  Average Weekdays Top 25" src="https://user-images.githubusercontent.com/70614026/167271260-053180b7-80e4-440c-ae49-8e3c5f1c7544.png">
-<img width="545" alt="2   Average Weekends Top 25" src="https://user-images.githubusercontent.com/70614026/167271274-5908c7ab-f263-47ac-9550-b71ce63ef33b.png">
+2. Tree Map - Compariosn of Average Daily Ridership per Station based on Weekdays vs Weekends
+<img width="592" alt="2  Average Weekdays" src="https://user-images.githubusercontent.com/70614026/167954968-7fe68100-61c5-4826-b4fe-a04a9d4a5137.png">
+<img width="569" alt="2   Average Weekends" src="https://user-images.githubusercontent.com/70614026/167955028-70c3b17c-f369-491c-b4cb-4e69690b9deb.png">
 
 
 3. Packed Bubble chart for Total Number of Subway Stations by Borough
@@ -75,8 +75,9 @@ List of Visualizations for each KPI:
 4. Stacked bar chart for Total Accidents/Injuries Case by Category by Borough in 2020
 <img width="548" alt="4  Incidents cases by Borough and Category in 2020" src="https://user-images.githubusercontent.com/70614026/167313295-01af468e-a407-4f0b-acc8-90c3a0fd28d3.png">
 
-5. Bar Chart for The Number of Subway Lines per Station
-<img width="631" alt="5  Subway Line per Station" src="https://user-images.githubusercontent.com/70614026/167271334-a9d2e581-b4b0-4a0d-b6ae-ef12118d9302.png">
+5. Tree Map for The Number of Subway Lines per Station
+<img width="476" alt="5  Subway Line per Station" src="https://user-images.githubusercontent.com/70614026/167954864-129a35a5-989e-4cf8-9de6-afee3cdcd806.png">
+
 
 
 BI Application Wireframe design:
