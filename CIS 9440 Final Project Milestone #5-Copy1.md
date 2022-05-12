@@ -90,11 +90,11 @@ Picture of final Dashboard:
 ## Use correct file path here to show picture of Dashboard:
 
 Dashboard #1 
-![Dashboard 1 ](https://user-images.githubusercontent.com/70614026/167271365-0f7e2139-1913-47ee-84f4-e0cc691fa901.png)
+![Dashboard 1 ](https://user-images.githubusercontent.com/70614026/167967282-dbbc76e3-4d52-4863-95a8-efc3f959c4a7.png)
 
 
 Dashboard #2
-![Dashboard 2](https://user-images.githubusercontent.com/70614026/167271378-014ec20e-e51e-4c85-9aa2-bbce778e97d3.png)
+![Dashboard 2](https://user-images.githubusercontent.com/70614026/167967328-3d3c55ca-9c17-4ea5-817e-006a54f529e6.png)
 
 
 
